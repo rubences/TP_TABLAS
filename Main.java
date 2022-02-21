@@ -1,5 +1,5 @@
 class Main extends Bucle{
-  Bucle B= new Bucle();
+  static Bucle B= new Bucle();
   public static void main(String[] args) {
     double[] tab = new double[3];  
        tab[0] = 1.61803398875;  
