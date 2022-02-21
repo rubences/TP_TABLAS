@@ -8,6 +8,6 @@ class Main extends Bucle{
        System.out.println("número áureo = " + tab[0]);  
        System.out.println("e = " + tab[1]);  
        System.out.println("pi = " + tab[2]); 
-    System.out.println(B);  
+    B.bucle3();  
   }
 }
